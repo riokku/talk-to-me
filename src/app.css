@@ -1,0 +1,21 @@
+*{
+  color: #2f2f2f;
+  font-family: 'Rubik', sans-serif;
+}
+h1{
+  font-size: 5em;
+  margin: 0.25em 0;
+}
+h2{
+  font-size: 3.5em;
+  margin: 0.25em 0;
+}
+h3{
+  font-size: 2em;
+  margin: 0 0 1em 0;
+}
+p{
+  font-size: 1.7em;
+  line-height: 1.4;
+  margin-bottom: 1.5em;
+}
